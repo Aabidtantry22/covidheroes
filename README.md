@@ -16,7 +16,7 @@ Primary Azure Technology*:  Static Web Apps,
 
 Other Azure Technologies: App Service
 
-Link for the website:https://lively-stone-0dd0c0e00.1.azurestaticapps.net
+Link for the website:https://icy-sand-069356f10.1.azurestaticapps.net/
 
 ![Corona](2.jpeg)
 
